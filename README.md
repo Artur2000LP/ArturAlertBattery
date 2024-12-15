@@ -74,3 +74,4 @@ Para ejecutar este proyecto, necesitas tener Python instalado en tu sistema. Se 
    ```bash
    pip install psutil
    pip install tk
+   pyinstaller --onefile --windowed --hidden-import plyer.platforms.win.notification bateriaalerta.py 
