@@ -1,7 +1,7 @@
 
 # ArturAlertBatteryWindous
 
-## install programin 
+## Install Program
 
 ---
 --> ArturAlertBattery.exe  
