@@ -1,6 +1,11 @@
 
 # ArturAlertBatteryWindous
 
+## install programin 
+
+---
+--> ArturAlertBattery.exe  
+
 ## Ejemlpo de prueva
 ### Icono del Programa
 <div style="text-align:center;">
