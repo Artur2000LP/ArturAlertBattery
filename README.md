@@ -9,7 +9,7 @@
 ## Ejemlpo de prueva
 ### Icono del Programa
 <div style="text-align:center;">
-  <img src="https://github.com/user-attachments/assets/c9f3270f-3110-4455-9190-6d308bc558f3" width="300"/>
+  <img src="https://github.com/user-attachments/assets/7a8cb347-35c0-4998-b00e-51e2952035ed" width="300"/>
 </div>
 
 
@@ -17,7 +17,7 @@
 
 ## Notificación de la Batería Baja
 <div style="text-align:center;">
-  <img src="https://github.com/user-attachments/assets/af0821a8-2f25-47cb-a50a-32d2d8d37e32" width="300"/>
+  <img src="https://github.com/user-attachments/assets/4984ea4a-9345-4be1-a3b7-80dbafa2a3af" width="300"/>
 </div>
 
 Este es el **icono de notificación** cuando la batería está baja.
@@ -26,7 +26,7 @@ Este es el **icono de notificación** cuando la batería está baja.
 
 ## Notificación de la Batería Alta
 <div style="text-align:center;">
-  <img src="https://github.com/user-attachments/assets/446ec0d4-aa35-4e8b-bad2-6d9bc15c339d" width="300"/>
+  <img src="https://github.com/user-attachments/assets/c903b88d-d457-4d51-98d2-e1bd38ffa692" width="300"/>
 </div>
 
 Este es el **icono de notificación** cuando la batería está alta, por encima del porcentaje máximo que se ha configurado.
