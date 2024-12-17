@@ -82,7 +82,7 @@
 
 # # Crear la interfaz gráfica
 # root = tk.Tk()
-# root.title("Configuración de Alertas de Batería")
+# root.title("ArturAlertBattery ALP")
 # root.geometry("300x200")
 # root.resizable(False, False)  # Bloquear redimensionamiento
 
@@ -195,7 +195,7 @@ def update_limits():
 
 # Crear la interfaz gráfica
 root = tk.Tk()
-root.title("Configuración de Alertas de Batería")
+root.title("ArturAlertBattery ALP")
 root.geometry("300x200")
 root.resizable(False, False)  # Bloquear redimensionamiento
 
